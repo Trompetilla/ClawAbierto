@@ -1,3 +1,6 @@
+# Este Repositorio a sido Bifurcado a Garras, para permitir sin completo unico uso en Local. 
+
+
 # 🦞 OpenClaw — Personal AI Assistant
 
 <p align="center">
